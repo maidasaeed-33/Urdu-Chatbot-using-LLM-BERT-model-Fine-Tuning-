@@ -1,6 +1,6 @@
 **Urdu Q&A Chatbot**
 
-**Author:** Muhammad Noman
+**Author:** Maida Saeed
 
 **Description:**
 This Python library implements a Urdu question-answering chatbot using BERT model. It tokenizes, trains, and predicts answers interactively based on user input.
